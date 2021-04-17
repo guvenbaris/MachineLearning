@@ -16,14 +16,14 @@
 
 **Classification Algorithms:** Classification can be performed on structured or unstructured data. Classification is a technique where we categorize data into a given number of classes. The main goal of a classification problem is to identify the category/class to which a new data will fall under. In this section used lots of classification algorithm these are: 
 
-  * *Gaussian Naive Bayes Algorithm 
-  * *Decision Tree Classifier
-  * *Random Forest Classifier
-  * *XGB Classifier
-  * *LGBM Classifier
-  * *CatBoost Classifier
-  * *K-Nearest Neighbors Algorithm
-  * *Support Vector Algorithm
+  * Gaussian Naive Bayes Algorithm 
+  * Decision Tree Classifier
+  * Random Forest Classifier
+  * XGB Classifier
+  * LGBM Classifier
+  * CatBoost Classifier
+  * K-Nearest Neighbors Algorithm
+  * Support Vector Algorithm
 
 **Exploratory Data Analysis:** In statistics, exploratory data analysis is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods. A statistical model can be used or not, but primarily EDA is for seeing what the data can tell us beyond the formal modeling or hypothesis testing task. Exploratory data analysis was promoted by John Tukey to encourage statisticians to explore the data, and possibly formulate hypotheses that could lead to new data collection and experiments. EDA is different from initial data analysis (IDA).[[2]](https://en.wikipedia.org/wiki/Exploratory_data_analysis)
 
